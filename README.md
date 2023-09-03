@@ -1,6 +1,11 @@
 COVID-19 PREDICTION USING MACHINE LEARNING
 
+
+
+
 What is Covid-19 Virus?
+
+
 
 Coronavirus disease (COVID-19) is an infectious disease caused by Coronavirus.
 
@@ -18,6 +23,8 @@ Like middle-aged and older adults, children with obesity, diabetes, asthma or ch
 
 
 
+
+
 OBJECTIVE 
 
 
@@ -30,3 +37,12 @@ others. Hence, we must be considerate while making such choice known whether you
 covid-19.
 
 Objective of our model estimating the Probability of Confirmed COVID-19 Cases Taking into the Intensive Care Unit (ICU)
+
+
+
+
+
+
+
+
+
